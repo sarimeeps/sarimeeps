@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **sarimeeps/sarimeeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# SarahArgueta
+# Sarah Argueta
 ## About Me! 😊
 Hello! My name is Sarah, I am currently a senior at the Univeristy of North Carolina at Charlotte majoring in Computer Science. 
 
