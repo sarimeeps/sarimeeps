@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Sarah Argueta
 ## About Me! 😊
-Hello! My name is Sarah, I am a recent computer science graduate from the University of North Carolina at Charlotte! 
+Hello! My name is Sarah, I am a comp sci graduate from the University of North Carolina at Charlotte! 
 
 ## Projects 👩‍💻
 - Lecture-Lounge: A small forum made for students from UNCC's College of Computing and Informatics (CCI) to use to talk to other CCI students. Created using Flask and Bootstrap.
