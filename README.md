@@ -32,6 +32,6 @@ Hi! I'm Sarah, a Computer Science graduate from the University of North Carolina
 - Continue growing as a front-end developer!
 
 ### Reach Out! 📫
-LinkedIn: [Sarah Argueta](https://www.linkedin.com/in/sarahmargueta/)
-Email: sarahmargueta@gmail.com
+- LinkedIn: [Sarah Argueta](https://www.linkedin.com/in/sarahmargueta/)
+- Email: sarahmargueta@gmail.com
 
