@@ -13,19 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Sarah Argueta
-## About Me! 😊
-Hello! My name is Sarah, I am a comp sci graduate from the University of North Carolina at Charlotte! 
+### About Me! 😊
+Hi! I'm Sarah, a Computer Science graduate from the University of North Carolina at Charlotte with a passion for building thoughtful user-centered web applications.
 
-## Projects 👩‍💻
-- Lecture-Lounge: A small forum made for students from UNCC's College of Computing and Informatics (CCI) to use to talk to other CCI students. Created using Flask and Bootstrap.
-- Basic weather app: A simple one page application that displays the weather forcast for the current week. Created using React.js and Openweathermap API.
-- Cozy Crochet: A storefront website for crochet items. Users can browse and sell their own crochet products!
-- ByteBite: A nutritional database website for users who would like to view or search up information on various foods. Created using the USDA API and Flask.
+### Projects 👩‍💻
+- **ByteBite**: A nutritional database website for users who would like to view or search up information on various foods. Created using the USDA API and Flask.
+- **BTSky**: A BTS-themed weather application made for K-Pop fans! Built with React, Mongodb, Node.js, and Express.
+- **Cozy Crochet**: A storefront website for crochet items. Users can browse and sell their own crochet products!
+- **Lecture-Lounge**: A small forum made for students from UNCC's College of Computing and Informatics (CCI) to use to talk to other CCI students. Created using Flask and Bootstrap.
 
-## Work In Progress 👷‍♀️
-- TBA 👀
+### Work In Progress 👷‍♀️
+- **Kingdom K-Pop & More Website Redesign**: Redesigning a small k-pop business website using Figma to create UI mockups. Planning to implement the frontend using React!
 
+### Currently Learning 🌱
+- Working through the **Meta Front-End Developer Professional Certificate** to focus on core frontend concepts and improving my practical skills.
 
-## Goals 🥅
-Continue to grow my knowledge in full-stack web and software development!
+### Goals 🥅 
+- Continue growing as a front-end developer!
+
+### Reach Out! 📫
+LinkedIn: [Sarah Argueta](https://www.linkedin.com/in/sarahmargueta/)
+Email: sarahmargueta@gmail.com
 
